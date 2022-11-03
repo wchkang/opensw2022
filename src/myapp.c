@@ -4,7 +4,10 @@ int main()
 {
    foo();
    goo();
-   zoo();
+
+   for (int i=0; i<3; i++) {
+      zoo();
+   }
 
    return 0;
 }

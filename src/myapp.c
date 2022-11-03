@@ -1,4 +1,5 @@
 #include "myfuncs.h"
+#incoude <stdio.h>
 
 int main()
 {
